@@ -1,4 +1,4 @@
-# Creating a NFT collection
+# Creating a Membership NFT collection
 
 Create and edit an `.env` file:
 ```
