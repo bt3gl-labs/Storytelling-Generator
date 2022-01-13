@@ -1,6 +1,6 @@
-# Creating a Membership NFT collection
+# Prototyping a storytelling NFT
 
-Scripts to test FilmmakerDAO NFT collection for Season 0, Note that these scripts are for dev purpose only: the NFT drop is actually created on-chain.
+For dev purpose only: the NFT drop is actually created on-chain.
 
 
 ---
